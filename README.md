@@ -30,8 +30,6 @@ Ensure you have the following libraries installed:
 - `gensim` (for LDA topic modeling)
 
 Install using:
-
-```bash
 pip install pandas numpy matplotlib seaborn scikit-learn transformers nltk gensim
 
 ## 🧠 Methodology
