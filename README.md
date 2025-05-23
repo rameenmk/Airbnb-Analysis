@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Project Banner" width="100%">
+</p>
+
 # 🏝️ Airbnb Price Prediction & Sentiment Analysis – Honolulu, Hawaii
 
 This project analyzes Airbnb listings and guest reviews in Honolulu to build a predictive pricing model and extract sentiment-driven insights from customer feedback. Combining structured data with advanced NLP techniques, the model supports hosts in dynamic pricing and experience optimization.
