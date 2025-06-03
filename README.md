@@ -103,3 +103,12 @@ We used 3 supervised models for price prediction:
 - Business impact and strategy suggestions  
 
 ---
+## Author
+
+Rameen Mustafa
+
+MSBA - Isenberg School of Managemnt
+
+University of Massachusetts Amherst
+
+
