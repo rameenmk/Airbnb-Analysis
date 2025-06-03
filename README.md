@@ -10,7 +10,7 @@ This project analyzes Airbnb listings and guest reviews in Honolulu to build a p
 
 ## 🔍 Overview
 
-Honolulu, a global tourist hotspot, presents unique Airbnb pricing challenges due to its seasonal demand, luxury listings, and location-sensitive bookings. This project uses over 35,000 listings and 27,000 guest reviews to:
+Honolulu, a global tourist hotspot, presents unique Airbnb pricing challenges due to its seasonal demand, luxury listings, and location-sensitive bookings. This project uses over 45,000 listings and 27,000 guest reviews to:
 
 - Predict nightly prices using regression models 🧮
 - Extract key guest sentiment themes using NLP 🧠
